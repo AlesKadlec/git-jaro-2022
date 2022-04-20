@@ -9,3 +9,4 @@ druha funkce
 }
 
 oprava funkce
+posledni radek
