@@ -3,3 +3,7 @@ hfghfg
 hfghfghfghfghf
 hfdhfghfdhfghfdh
 zde je jakasik nova funkce
+druha funkce
+{
+ a + a;
+}
