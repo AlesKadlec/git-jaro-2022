@@ -7,3 +7,5 @@ druha funkce
 {
  a + a;
 }
+
+oprava funkce
